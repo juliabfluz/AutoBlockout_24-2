@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "AutoBlockout",
+  "name": "BLOCKOUT 24",
   "description": "Extension to block accounts in TikTok and Instagram in bulk",
   "version": "1.0",
-  "host_permissions": ["https://www.instagram.com/*", "https://www.tiktok.com/*", "https://raw.githubusercontent.com/juliabfluz/AutoBlockout_24-2/blob/main/blacklist.json"],
+  "host_permissions": ["https://www.instagram.com/*", "https://raw.githubusercontent.com/juliabfluz/AutoBlockout_24-2/main/blacklist.json"],
   "permissions": ["activeTab", "scripting", "storage"],
   "background": {
     "service_worker": "background.js"
