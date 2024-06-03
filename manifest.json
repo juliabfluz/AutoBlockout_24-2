@@ -3,7 +3,7 @@
   "name": "AutoBlockout",
   "description": "Extension to block accounts in TikTok and Instagram in bulk",
   "version": "1.0",
-  "host_permissions": ["https://www.instagram.com/*", "https://www.tiktok.com/*", "https://raw.githubusercontent.com/mfrashad/AutoBlockout/main/blacklist.json"],
+  "host_permissions": ["https://www.instagram.com/*", "https://www.tiktok.com/*", "https://raw.githubusercontent.com/juliabfluz/AutoBlockout_24-2/blob/main/blacklist.json"],
   "permissions": ["activeTab", "scripting", "storage"],
   "background": {
     "service_worker": "background.js"
